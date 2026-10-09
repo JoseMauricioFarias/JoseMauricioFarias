@@ -51,6 +51,7 @@ Analista de **Marketing Analytics** em Martech. Conecto dados de mídia, marketp
 
 | | Projeto | O que faz | Ferramentas |
 |:-:|---|---|---|
+| 📈 | [**Painel de Performance de Marketing**](https://github.com/JoseMauricioFarias/martech-performance-dashboard) · [ver ao vivo](https://josemauriciofarias.github.io/martech-performance-dashboard/) | Integra Google Ads, Meta Ads e Mercado Livre via API e cruza a mídia com as vendas do CRM: ROAS, CPA, funil e entregas | Python · Pandas · APIs REST · JavaScript |
 | 🤖 | [**Assistente de Carreira em Dados**](https://github.com/JoseMauricioFarias/notebooklm-data-career-assistant) | Mentor virtual com IA que analisa currículo, vagas reais e prepara para entrevistas na área de dados | NotebookLM · Engenharia de Prompt |
 | 📊 | [**Dashboard de Análise de Vendas**](https://github.com/JoseMauricioFarias/dashboard-Analise-Vendas) | Comparação ano a ano, desempenho por categoria e performance de vendedores | Power BI · DAX |
 | ⚙️ | [**Gerador de Cartas Automatizado**](https://github.com/JoseMauricioFarias/gerador-cartas-extrajudiciais) | Lê uma planilha e gera documentos .docx individuais, sem retrabalho manual | Python · Pandas · Excel |
