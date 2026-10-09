@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Jose%20Mauricio%20Farias&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Marketing%20Analytics%20%7C%20Martech%20%7C%20Dados%20e%20IA&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Jos%C3%A9%20Mauricio%20Farias&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Marketing%20Analytics%20%7C%20Martech%20%7C%20Dados%20e%20IA&descSize=18&descAlignY=58&animation=none" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Dashboards+de+performance+integrados+via+API;Google+Ads+%C2%B7+Meta+Ads+%C2%B7+Mercado+Livre;Landing+pages+e+apps+com+IA+generativa;Dados+que+mostram+onde+o+marketing+d%C3%A1+retorno" alt="Typing SVG" />
 
@@ -64,6 +64,6 @@ Analista de **Marketing Analytics** em Martech. Conecto dados de mídia, marketp
 
 💬 *Sempre aberto a trocar ideias sobre dados, martech e IA aplicada a negócios.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer&animation=none" width="100%"/>
 
 </div>
